@@ -69,8 +69,7 @@
 
 - 如果需要增加，删除，或修改人员或权限，可以在完成创建后点击尽调机构列表切换到该尽调机构的视角下，然后点击账号下拉列表中的授权管理进行操作。同一账号下个人机构的项目与尽调机构的项目不共享。
 
-<pre><center class=half><img src="pics/135.png" height="300" width="300"/>    <img src="pics/134.png" height="300" width="300"/></center><pre>
-
+<pre><center class=half><img src="pics/135.png" height="300" width="300"/>    <img src="pics/134.png" height="300" width="300"/></center></pre>
 
 #### [back]("#0")
 
