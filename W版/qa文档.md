@@ -71,7 +71,7 @@
 
 <pre><center class=half><img src="pics/135.png" height="300" width="300"/>    <img src="pics/134.png" height="300" width="300"/></center></pre>
 
-#### [back]("#0")
+#### <a href="#0">back</a>
 
 
 
@@ -98,7 +98,7 @@
 
    <img src="pics/132.png" height="350" width="400" />
 
-#### <a href="#0">back</a></a>
+#### <a href="#0">back</a>
 
 
 
